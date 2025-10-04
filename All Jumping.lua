@@ -1,5 +1,3 @@
-Print("test")
-
 local player = game.Players.LocalPlayer
 local uis = game:GetService("UserInputService")
 local checkpoints = {}
